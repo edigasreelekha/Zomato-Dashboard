@@ -7,15 +7,21 @@ This Power BI dashboard provides a deep dive into Zomato's operational and user 
 ## ✨ Key Features & Visualizations
 
 This interactive dashboard is designed to provide a comprehensive view of Zomato's ecosystem:
+
 1. Overview & Key Metrics
 This Dashboard displays the main dashboard view, showcasing overall metrics, top cities by sales, yearly trends, and order category breakdown.
 
-2. City Performance Analysis
+[OVERVIEW ](https://github.com/edigasreelekha/Zomato-Dashboard/blob/main/Overview.png)
+
+3. City Performance Analysis
 This Dashboard provides a detailed look at city-wise performance, including sales, user acquisition, and ratings, alongside a global map visualization.
 
-3. User Performance & Age Demographics 
+[CiTY](https://github.com/edigasreelekha/Zomato-Dashboard/blob/main/City%20Performance.png)
+
+5. User Performance & Age Demographics 
 This Dashboard provides user performance metrics, customer gain/loss, and most importantly, the age distribution of users.
 
+[User](https://github.com/edigasreelekha/Zomato-Dashboard/blob/main/User%20Performance.png)
 
 ## 🚀 How to Use the Dashboard
 
@@ -34,7 +40,7 @@ This Dashboard provides user performance metrics, customer gain/loss, and most i
 * Data Source: [click here]().
 
 📝 License
-This project is licensed under the [MIT]()
+This project is licensed under the [MIT](https://github.com/edigasreelekha/License)
 
 📞 Contact
 For any questions or feedback, please reach out to 
