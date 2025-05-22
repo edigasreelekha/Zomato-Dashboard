@@ -13,12 +13,12 @@ This Dashboard displays the main dashboard view, showcasing overall metrics, top
 
 ![OVERVIEW ](https://github.com/edigasreelekha/Zomato-Dashboard/blob/main/Overview.png)
 
-3. City Performance Analysis
+2. City Performance Analysis
 This Dashboard provides a detailed look at city-wise performance, including sales, user acquisition, and ratings, alongside a global map visualization.
 
 ![CiTY](https://github.com/edigasreelekha/Zomato-Dashboard/blob/main/City%20Performance.png)
 
-5. User Performance & Age Demographics 
+3. User Performance & Age Demographics 
 This Dashboard provides user performance metrics, customer gain/loss, and most importantly, the age distribution of users.
 
 ![User](https://github.com/edigasreelekha/Zomato-Dashboard/blob/main/User%20Performance.png)
