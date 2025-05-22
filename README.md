@@ -1,5 +1,8 @@
 # Zomato Insights Dashboard
-![Dashboard]()
+
+![Dashboard](https://github.com/edigasreelekha/Zomato-Dashboard/blob/main/Dashboard.jpg)
+
+
 ## 📊 Project Overview
 
 This Power BI dashboard provides a deep dive into Zomato's operational and user performance. It visualizes key metrics across sales, city performance, and user behavior, offering actionable insights for strategic decision-making in the food delivery sector.
